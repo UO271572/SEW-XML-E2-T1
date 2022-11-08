@@ -45,6 +45,10 @@ h3{
 a{
     color: white;
     background-color: #222831;}
+video{
+    width: 50%;
+    height: 50%;
+}
 /*Specificidad 001*/
 footer{
     color: white;
